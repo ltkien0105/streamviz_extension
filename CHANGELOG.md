@@ -1,5 +1,5 @@
 # Nhật ký thay đổi
-Mọi thay đổi đáng chú ý của dự án sẽ được ghi lại trong tệp này.
+Mọi thay đổi đáng chú ý cho extension Streamviz sẽ được ghi lại trong tệp này.
  
 Định dạng này dựa trên [Keep a Changelog](http://keepachangelog.com/).
  
