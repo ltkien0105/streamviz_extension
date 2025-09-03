@@ -3,7 +3,7 @@ Mọi thay đổi đáng chú ý cho extension Streamviz sẽ được ghi lại
  
 Định dạng này dựa trên [Keep a Changelog](http://keepachangelog.com/).
 
-## [1.6] - 2025-08-31
+## [1.6] - 08-31-2025
  
 ### Thêm mới
 - Thêm hỗ trợ cho OnLive
