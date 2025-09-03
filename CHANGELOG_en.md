@@ -2,11 +2,15 @@
 All notable changes to Streamviz extension will be documented in this file.
  
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
+
+## [1.6] - 2025-08-31
+ 
+### Added
+- Add support for OnLive
  
 ## [1.5] - 2025-08-08
  
 ### Fixed
- 
 - Fixed a layout bug that caused interactive boxes to appear in the wrong position on some screens
  
 ## [1.4] - 2025-08-02
