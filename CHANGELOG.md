@@ -3,6 +3,11 @@ Mọi thay đổi đáng chú ý cho extension Streamviz sẽ được ghi lại
  
 Định dạng này dựa trên [Keep a Changelog](http://keepachangelog.com/).
 
+## [1.7] - 14-10-2025
+
+### Thêm mới
+- Thêm giao diện cho CKTG 2025
+
 ## [1.6] - 31-08-2025
  
 ### Thêm mới
