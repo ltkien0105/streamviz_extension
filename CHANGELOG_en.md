@@ -3,9 +3,14 @@ All notable changes to Streamviz extension will be documented in this file.
  
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [1.8] - 2025-10-19
+
+### Added
+- Add support for OnLiveTV
+
 ## [1.7] - 2025-10-14
 
-### Thêm mới
+### Added
 - Add Worlds 2025 layout
 
 ## [1.6] - 2025-08-31
