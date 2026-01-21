@@ -3,6 +3,11 @@ All notable changes to Streamviz extension will be documented in this file.
  
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [1.9] - 2026-01-21
+
+### Sửa lỗi
+- Fix some bugs and improve performance
+
 ## [1.8] - 2025-10-19
 
 ### Added
