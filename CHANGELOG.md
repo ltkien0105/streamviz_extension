@@ -3,6 +3,11 @@ Mọi thay đổi đáng chú ý cho extension Streamviz sẽ được ghi lại
  
 Định dạng này dựa trên [Keep a Changelog](http://keepachangelog.com/).
 
+## [1.9] - 21-01-2026
+
+### Sửa lỗi
+- Sửa một số lỗi và cải thiện hiệu năng
+
 ## [1.8] - 19-10-2025
 
 ### Thêm mới
