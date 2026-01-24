@@ -3,6 +3,11 @@ Mọi thay đổi đáng chú ý cho extension Streamviz sẽ được ghi lại
  
 Định dạng này dựa trên [Keep a Changelog](http://keepachangelog.com/).
 
+## [1.10] - 24-01-2026
+
+### Thêm mới
+- Thay đổi vị trí layout tương ứng khi video thay đổi kích thước (ví dụ khi mở thanh chat)
+
 ## [1.9] - 21-01-2026
 
 ### Sửa lỗi

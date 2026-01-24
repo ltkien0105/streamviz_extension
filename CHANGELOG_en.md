@@ -3,6 +3,11 @@ All notable changes to Streamviz extension will be documented in this file.
  
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [1.10] - 2026-01-24
+
+### Added
+- The layout position changes accordingly when the video resizes (for example, when opening a chat panel).
+
 ## [1.9] - 2026-01-21
 
 ### Fixed
